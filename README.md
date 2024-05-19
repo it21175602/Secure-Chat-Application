@@ -9,11 +9,11 @@ IT21188572 - Frenando S.D.K.
 
 ## Node.js version
 $ node --version\
-node 3.8.5
+node 22.2.0
 
 ## NPM version
 $ npm --version\
-npm 3.8.5
+npm 10.5.2
 
 ## How to run
 1.Open the Termenal and go to the file directory
